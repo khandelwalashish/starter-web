@@ -13,3 +13,6 @@ This is puprpose area
 ## Deployment
 
 ## How to contribute
+
+### Copyright
+Ashish copyright
