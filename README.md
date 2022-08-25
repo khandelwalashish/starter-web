@@ -13,6 +13,7 @@ This is puprpose area
 ## Deployment
 
 ## How to contribute
+Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
 Ashish copyright
